@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/?tab=tab-learning-paths
+
+CCSP
+Cloud Certified Security Professional
+MS-500
+AZ-500
